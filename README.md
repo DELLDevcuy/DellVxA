@@ -1,7 +1,7 @@
 
 <div align="center">
-  <h1>DEPAY OFFICIAL</h1>
-  <img src="https://img2.pixhost.to/images/7318/716786052_papaqueen.jpg" alt="Thumbnail" width='100%' />
+  <h1>DELL OFFICIAL</h1>
+  <img src="https://img2.pixhost.to/images/7699/722990254_fz6olsltk3.jpg" alt="Thumbnail" width='100%' />
 </div>
 
 <br>
